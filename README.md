@@ -4,7 +4,6 @@
 
 [Multiple Themes for Next.js with next-themes, Tailwind CSS and CSS Custom Properties](https://darrenwhite.dev/blog/nextjs-tailwindcss-theming)
 
----
 
 ## Create Next App
 
